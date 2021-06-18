@@ -1,0 +1,2 @@
+# Computer-Worms
+The term “computer worm” was first used in 1975 in the novel “The Shockwave Rider” by John Brunner. In this novel, the protagonist of the story creates a worm that collects data. In the early days of computer science, worms were designed to exploit a system’s vulnerabilities. Instead of seriously damaging the infected computers, they just kept multiplying in the background. Today, however, the purpose of computer worms has changed. Today, attackers often use them to gain full access to their victims’ computers.
